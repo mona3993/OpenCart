@@ -1,0 +1,7 @@
+name= Akash
+email= akash@yahoo.com
+message_type= general
+birthday_message= birthday message
+christmas_message= christmas message
+general_message= general message
+amount = 500
